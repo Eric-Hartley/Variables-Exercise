@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VariablesExercise
-build_property.ProjectDir = C:\Users\Eric\Desktop\repos\Variables-Exercise\VariablesExercise\
+build_property.ProjectDir = c:\Users\Eric\Desktop\repos\Variables-Exercise\VariablesExercise\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
